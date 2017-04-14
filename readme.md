@@ -1,7 +1,7 @@
 
 # Chrome Extention
 
-cos主站review工具
+cos主站review工具, 可以用来快速打开已经生成好的页面
 
 1. 首先, 你需要一个chrome
 1. 从这里下载扩展工具, 并且自己解压: [扩展工具](https://github.com/Lchiffon/cosxReviewTool/raw/master/tool.rar)
